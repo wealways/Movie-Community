@@ -102,6 +102,8 @@ Framework : <img src="https://img.shields.io/badge/Django-092E20?style=flat-squa
 
 # 🖼 Demo
 
+이미지 클릭시 동영상 재생
+
 - 로그인 후 추천받기
 
   [![Video Label](http://img.youtube.com/vi/PpfNvYiguk0/0.jpg)](https://youtu.be/PpfNvYiguk0?t=0s)
@@ -112,7 +114,7 @@ Framework : <img src="https://img.shields.io/badge/Django-092E20?style=flat-squa
 
 - 커뮤니티
 
-![Video Label](http://img.youtube.com/vi/7PXkm49U6YQ/0.jpg)](https://youtu.be/7PXkm49U6YQ?t=0s)
+  [![Video Label](http://img.youtube.com/vi/7PXkm49U6YQ/0.jpg)](https://youtu.be/7PXkm49U6YQ?t=0s)
 
 
 
@@ -125,7 +127,7 @@ Framework : <img src="https://img.shields.io/badge/Django-092E20?style=flat-squa
 >
 > 좋아요 순으로 인기글을 볼 수 있어요 ( 아쉽게도 최신의 인기순은 적용하지 못했어요. ~~필터링을 적용해볼게요 다음에~~)
 >
-> 댓글도 작성할 수 있으니까 영화에 대해 우리 토론해봐요🙅‍♀️💁‍♀️🙆‍♂️🧏‍♀️🙋‍♀️🤦‍♀️🤷‍♀️
+> 댓글도 작성할 수 있으니까 영화에 대해 우리 토론해봐🙅‍♀️💁‍♀️🙋‍♀️
 
 
 
