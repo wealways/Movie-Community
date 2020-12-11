@@ -104,13 +104,21 @@ Framework : <img src="https://img.shields.io/badge/Django-092E20?style=flat-squa
 
 - 로그인 후 추천받기
 
+
+
 <iframe width="480" height="480" src="https://www.youtube.com/embed/PpfNvYiguk0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 > 로그인 하기 전에 회원가입을 해야해요! 그런데요 저희는 소셜로그인을 구현했어요😎 ( 네이버 또는 구글 아이디가 있다면 충분히 영화추천 그리고 커뮤니티를 이용하실 수 있습니다.🙆‍♀️)
 
 - 커뮤니티
 
+
+
 <iframe width="480" height="480" src="https://www.youtube.com/embed/7PXkm49U6YQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 > 찜한 목록에서 
 >
@@ -170,6 +178,10 @@ Framework : <img src="https://img.shields.io/badge/Django-092E20?style=flat-squa
 
 
 # 후기
+
+![](./readme_img/logo.png)
+
+
 
 쉽지 않았어요. 누군가와 함께 생각을 나누고, 서로 다른 생각을 맞춰가는 과정은 역시 쉽지 않았습니다. 그래도 서로 공유하고 있는 확실한 목표가 있었기 때문에 의견 조율을 할 수 있었어요. 함께 고생해준 다민님 🙇‍♂️샤라웃~~🙇‍♀️합니다!!
 
