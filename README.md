@@ -104,9 +104,7 @@ Framework : <img src="https://img.shields.io/badge/Django-092E20?style=flat-squa
 
 - 로그인 후 추천받기
 
-
-
-<iframe width="480" height="480" src="https://www.youtube.com/embed/PpfNvYiguk0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  [![Video Label](http://img.youtube.com/vi/PpfNvYiguk0/0.jpg)](https://youtu.be/PpfNvYiguk0?t=0s)
 
 
 
@@ -114,9 +112,7 @@ Framework : <img src="https://img.shields.io/badge/Django-092E20?style=flat-squa
 
 - 커뮤니티
 
-
-
-<iframe width="480" height="480" src="https://www.youtube.com/embed/7PXkm49U6YQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Video Label](http://img.youtube.com/vi/7PXkm49U6YQ/0.jpg)](https://youtu.be/7PXkm49U6YQ?t=0s)
 
 
 
