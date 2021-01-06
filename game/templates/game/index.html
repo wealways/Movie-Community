@@ -12,12 +12,16 @@
 
 {% block content %}
 <div class="my-container">
-  <h1>싸피가~좋아하는~랜덤~게임!🎰</h1>
+  {% if request.user.is_authenticated %}
+    <h1>{{request.user.username}}~좋아하는~랜덤~영화!🎰</h1>
+  {% else %}
+    <h1>당신이~좋아하는~랜덤~영화!🎰</h1>
+  {% endif %}
   <img src="{% static 'stylesheets/play.gif' %}" alt="실행화면" class="play-img">
   {% if request.user.is_authenticated %}
   <div class="login-form1">
     <a href="{% url 'game:play_game' %}">
-      <button>게임 시작하기</button>
+      <button>시작하기</button>
     </a>
   </div>
   {% else %}

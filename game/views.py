@@ -63,7 +63,6 @@ def movie_detail(request,game_idx):
     movie = get_object_or_404(Movie,pk=movie_pk)
     # youtube API_KEY
     API_KEYS=[
-        # 여기!!
     ]
    
     ## 예고편 가져오기1 TMDB에서!!
