@@ -2,7 +2,7 @@
 
 # 🎬 Movie Community
 
-부제 : 싸피가 좋아하는 랜덤 게임
+부제 : 당신이 좋아하는 랜덤 게임
 
 ![메인페이지](./readme_img/main.PNG)
 
@@ -106,7 +106,7 @@ Framework : <img src="https://img.shields.io/badge/Django-092E20?style=flat-squa
 
 - 로그인 후 추천받기
 
-  [![Video Label](http://img.youtube.com/vi/PpfNvYiguk0/0.jpg)](https://youtu.be/PpfNvYiguk0?t=0s)
+  [![Video Label](http://img.youtube.com/vi/_xmITzWRKCs/0.jpg)](https://youtu.be/_xmITzWRKCs?t=3)
 
 
 
@@ -114,7 +114,7 @@ Framework : <img src="https://img.shields.io/badge/Django-092E20?style=flat-squa
 
 - 커뮤니티
 
-  [![Video Label](http://img.youtube.com/vi/7PXkm49U6YQ/0.jpg)](https://youtu.be/7PXkm49U6YQ?t=0s)
+  [![Video Label](http://img.youtube.com/vi/hRaTmmbk28c/0.jpg)](https://youtu.be/hRaTmmbk28c)
 
 
 
